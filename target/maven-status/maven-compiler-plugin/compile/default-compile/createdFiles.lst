@@ -1,0 +1,15 @@
+com\project\model\HuffmanTree$Node.class
+com\project\Main.class
+com\project\model\HuffmanTree.class
+com\project\model\HuffmanTree$Reader.class
+com\project\model\ImplementationStrategy.class
+com\project\model\HuffmanImplementation.class
+com\project\model\Statistics.class
+com\project\model\FilePath.class
+com\project\viewmodel\TreeManager.class
+com\project\model\BitInputStream.class
+com\project\GUIController.class
+com\project\model\InfoHuffmanImplementation.class
+com\project\view\TreeDrawer.class
+com\project\viewmodel\StatisticsViewModel.class
+com\project\viewmodel\ConfigViewModel.class
